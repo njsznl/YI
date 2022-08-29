@@ -1,0 +1,13 @@
+# 应用名称
+server:
+  port: 8002
+
+
+spring:
+  application:
+    name: rocketmq-consumer-demo
+rocketmq:
+  name-server: localhost:9876
+  consumer:
+    group: test-consumer
+

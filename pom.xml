@@ -10,6 +10,7 @@
         <module>yl-framework</module>
         <module>yl-mall</module>
         <module>yl-support</module>
+        <module>practice</module>
     </modules>
     <packaging>pom</packaging>
 

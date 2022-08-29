@@ -1,0 +1,18 @@
+package com.yi.example.rocketmqconsumerdemo.bean;
+
+import lombok.Data;
+import lombok.ToString;
+
+/**
+ * @author : xiao on 2022/8/26 20:38
+ * @version : 1.0
+ */
+@Data
+@ToString
+public class User {
+
+
+    private String name;
+    private String sex;
+    private int age;
+}
